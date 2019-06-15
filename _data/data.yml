@@ -34,42 +34,22 @@ sidebar:
         link: https://matrixzj.github.io
 
 career-profile:
-    title: Career Profile
+    title: Highlights
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      - Powerful communication and customer facing skills. Strong communication experiences with customers and good collaboration skills with colleagues. 
+      - Great passion on learning Computer science, got many IT certificates after graduated. I have shown the great talent for computer science.    
+      - More than 10 years’ work experience with Linux, experienced with Linux configuration, troubleshooting, performance tuning. 
+      - Strong linux security background, familiar with linux kernel security components, such as audit, SeLinux. 
+      - Familiar with Cloud Computing, including Iaas/Paas, especailly for Openstack solutions. 
+      - Enterprise Storage administration, deeply understanding SAN / NAS storage, familiar with Data Protection and performance optimization. 
+      - Be good at implementing IPv4 or IPv6 scalable networks, master OSI model, TCP/IP protocols, ip routing & switch.    
+      - 10 years of experience as a public servant in Chinese government to maintain systems running nonstop and keep systems secure. 
+      - Bachelor’s degree in Literature, majoring in English. Fluent communication in English, more powerful on writing & reading.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BSc in English Literature
+      university: Foreign Language University of PLA
+      time: 1996 - 2000
 
 experiences:
     - role: Lead Developer
