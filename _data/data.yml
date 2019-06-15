@@ -52,35 +52,28 @@ education:
       time: 1996 - 2000
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Customer Operation Engineer
+      time: Dec., 2017 - Mar., 2018
+      company: Mesosphere, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Provide support for customer on DC/OS problems in both cloud based and on premise infrastructure environments.
+        - Do research, identify, reproduce and document bugs in the product.
+        - Work directly with Field Operations (Sales, Solution Architect) to process, defect and feature requests encountered during adoption and retention efforts.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Lead System Engineer
+      time: Nov., 2015 - Dec., 2017
+      company: Freewheel, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Support production and corporate infrastructure with data centers and offices in US, EU and China
+        - Provide suggestions on Infrastruture Solution Design, Hands-on POC and implementation
+        - Enterprise storage administration, NetApp NAS and HP 3Par daily administration and monitor
+        - Automatically operation via Ansible
+        - Advise and implement production & corporate infrastructure needs
+        - Administer more than 2000 Linux servers, including OpenStack, KVM hypervisors
+        - Virtualization migration, migrating existing Xen VM to KVM, OpenStack
+        - Perform root cause analysis on hardware, software, network and operating system issues
+        - Perform basic hardware troubleshooting/repairs/replacement
+        - Perform on-call support (rotation) and scheduled weekend maintenance work
 
     - role: UI Developer
       time: 2012 - 2014
