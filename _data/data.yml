@@ -75,18 +75,17 @@ experiences:
         - Perform basic hardware troubleshooting/repairs/replacement
         - Perform on-call support (rotation) and scheduled weekend maintenance work
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Technical Account Manager
+      time: Jul., 2014 - Nov., 2015
+      company: Red Hat CEE, Beijing
+      Awarded: |
+        - APAC Associate of Quater (FY15 Q3)
+        - Top GSS (FY16 Q1)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Enlarge GCG TAM business with sales team. The number of TAM customers in GCG has been increased from 4 to 12. 
+        - Help to build TAM team and interview with new candidates, provide guide for newbies. 
+        - Engage with Sales team, let them know TAM service benefits 
+        - Manage customers as a TAM.  
 
 projects:
     title: Projects
