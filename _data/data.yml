@@ -137,7 +137,28 @@ projects:
 
 trainings:
     - subject: MCSE training course in Speedo Training Center in Chengdu
-      time: Sep,2000 – Feb,2001
+      time: Sep.,2000 – Feb.,2001
+
+    - subject: CCNA training course in HaoCheng Training Center in Kunming
+      time: Aug.,2010 – Sep.,2010  
+
+    - subject: CCNP training course in HaoCheng Training Center in Kunming
+      time: Sep.,2010 – May.,2011  
+
+    - subject: RHCE training course in HaoCheng Training Center in Kunming
+      time: Feb.,2011 – Apr.,2011
+
+    - subject: RHCVA training course in Uplooking Training Center in Shanghai
+      time: Jun., 2011
+
+    - subject: RHCA & RHCSS training course in Yutian Training Center in Wuhan 
+      time: Jun.,2011 – Oct.,2011
+
+    - subject: NETAPP ONTAP 9 Cluster Administration and ONTAP Data Protection Administration in New York, USA
+      time: Mar., 2017 
+
+    - subject: Managing NAS and Performance on Clustered Data ONTAP in New York, USA
+      time: Jul., 2017
 
 
 skills:
