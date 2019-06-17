@@ -7,8 +7,24 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    {{ trainings.title }}
+    Trainings
   </h2>
+
+  {% for training in trainings %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ training.subject }}</h3>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ experience.company }}</div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
 
 </section><!--//section-->
 {% endif %}
