@@ -87,6 +87,26 @@ experiences:
         - Engage with Sales team, let them know TAM service benefits 
         - Manage customers as a TAM.  
 
+    - role: Technical Account Manager
+      time: Aug., 2013 - Jun., 2014
+      company: Red Hat CEE, Beijing
+      details: |
+        - Designated senior technical resource to customers, deeply understanding customers’ unique technical environment, collaborating with customers’ IT organization on strategic planning.
+        - Build good relationship with customers through regular meeting and on-site visits. During these events, sharing knowledge, introducing best practice, and providing Red Hat roadmap to customers.
+        - Proactive support customers. Try to identify and address potential risks before they occur. When the issue arise, owning the issue and engaging best resources to help resolve it as soon as possible.
+        - Work with customers to plan the best solutions that meets the business requests. Provide architectural reviews for existed solutions.
+        - Working with sales team to build customer plan
+ 
+    - role: Technical Support Engineer
+      time: Aug., 2013 - Jun., 2014
+      company: Red Hat GCS, Beijing
+      details: |
+        - To communicate with customers mainly in China mainland and Taiwan, provide professional technical support for them. Answer telephone hotline and web based inquiries about Red Hat Enterprise Linux.
+        - Troubleshooting for customers’ problems, isolate and narrow down problems by deeply analysis of all log and system workload statistics.
+        - Collaborate with global colleagues to provide technical support for global customers, and cover 7*24 urgent customers’ issues during APAC business hours.
+        - Sharing my knowledge. Summarize diagnosis steps and solutions and write it down into Red Hat knowledge base articles. Provide technical training for our interns and newbies.
+
+
 projects:
     title: Projects
     intro: >
@@ -115,12 +135,9 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+Trainings:
+    title: MCSE training course in Speedo Training Center in Chengdu
+    time: Sep,2000 – Feb,2001
 
     papers:
       - title: The Art of Computer Programming
