@@ -10,19 +10,5 @@
     {{ trainings.title }}
   </h2>
 
-  {% if trainings.intro %}
-  <div class="intro">
-    {{ trainings.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for publication in trainings.papers %}
-  <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
-  {% endfor %}
-
 </section><!--//section-->
 {% endif %}
