@@ -162,8 +162,36 @@ trainings:
 
 
 certifications:
-    - subject: TEM8(Test for English Major-Level 8)
+    - subject: TEM8 (Test for English Major-Level 8)
       time: Mar., 2000
+
+    - subject: MCSE (Microsoft Certified Systems Engineer)
+      time: Sep., 2001
+
+    - subject: MCDBA (Microsoft Certified DataBase Administrator)
+      time: Sep., 2001
+
+    - subject: CCNA (Cisco Certified Network Associate)
+      time: Spe., 2010
+
+    - subject: RHCE (RedHat Certified Engineer)
+      time: Api., 2011
+
+    - subject: CCNP (Cisco Certified Network Professional) 
+      time: May., 2011
+
+    - subject: RHCVA (RedHat Certified Virtualization Administrator)
+      time: Jun., 2011
+
+    - subject: RHCSS (RedHat Certified Security Specialist)
+      time: Sep., 2011
+
+    - subject: RHCA (RedHat Certified Architect)
+      time: Oct., 2011
+
+    - subject: RHCI (RedHat Certified Instructor)
+      time: Jun., 2012
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -172,20 +200,23 @@ skills:
       - name: Linux Administration
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Troubleshooting
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Linux Performance Tuning
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Storage Administration
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Cloud Computing
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Scripting on Bash
+        level: 80%
+
+      - name: Scripting on Python
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://matrixzj.github.io/resume" target="_blank" rel="nofollow">Matrix Zou</a>
