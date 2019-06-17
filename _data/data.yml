@@ -161,11 +161,15 @@ trainings:
       time: Jul., 2017
 
 
+certifications:
+    - subject: TEM8(Test for English Major-Level 8)
+      time: Mar., 2000
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Linux Administration
         level: 98%
 
       - name: Javascript & jQuery
