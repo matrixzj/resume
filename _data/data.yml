@@ -52,6 +52,27 @@ education:
       time: 1996 - 2000
 
 experiences:
+    - role: Lead System Engineer
+      time: Dec., 2018 till now 
+      company: Freewheel, Beijing
+      details: |
+        - Leading on new projects such as security enhancements          
+        - Routing daily work in automatically way
+        - Support production and corporate infrastructure with data centers and offices in US, EU and CN
+        - Enterprise storage administration, NetApp NAS and HP 3Par daily administration and monitor
+        - Advise and implement production & corporate infrastructure needs
+        - Perform on-call support (rotation) and scheduled weekend maintenance work
+        - Performance issue troubleshooting and tuning
+
+    - role: Senior Technical Account Manager
+      time: Apr., 2018 - Dec., 2018
+      company: Red Hat CEE, Beijing
+      details: |
+        - Deeply invovling with Customers production environment, help on architecture review with customers. 
+        - Help to build TAM team and interview with new candidates, provide guide for newbies.
+        - Engage with Sales team, let them know TAM service benefits.
+        - Advocate customer open source solutions.
+
     - role: Customer Operation Engineer
       time: Dec., 2017 - Mar., 2018
       company: Mesosphere, Beijing
