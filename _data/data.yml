@@ -57,8 +57,10 @@ experiences:
       company: Freewheel, Beijing
       details: |
         - Leading on new projects such as security enhancements          
-        - Routing daily work in automatically way
+        - Routing daily work in automatically manner  
         - Support production and corporate infrastructure with data centers and offices in US, EU and CN
+        - Adopt and Manage Iaas Hybrid Cloud Solutions, such as private cloud based on OpenStack and public cloud, such as AWS
+        - Lead transformantion from IaaS to SaaS, Engage with Developpers on Kubernetes Adoption including AWS EKS
         - Enterprise storage administration, NetApp NAS and HP 3Par daily administration and monitor
         - Advise and implement production & corporate infrastructure needs
         - Perform on-call support (rotation) and scheduled weekend maintenance work
