@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: matrix.zj@gmail.com
-    phone: +86 189 1164 0853
+    phone: +971 52 727 7212
     website: bit.ly/2KgVj4t #do not add http://
     linkedin: matrix-zou-5267b454
     github: matrixzj
@@ -36,15 +36,21 @@ sidebar:
 career-profile:
     title: Highlights
     summary: |
-      - Powerful communication and customer facing skills. Strong communication experiences with customers and good collaboration skills with colleagues. 
-      - Great passion on learning Computer science, got many IT certificates after graduated. I have shown the great talent for computer science.    
-      - More than 10 years’ work experience with Linux, experienced with Linux configuration, troubleshooting, performance tuning. 
-      - Strong linux security background, familiar with linux kernel security components, such as audit, SeLinux. 
-      - Familiar with Cloud Computing, including Iaas/Paas, especailly for Openstack solutions. 
-      - Enterprise Storage administration, deeply understanding SAN / NAS storage, familiar with Data Protection and performance optimization. 
-      - Be good at implementing IPv4 or IPv6 scalable networks, master OSI model, TCP/IP protocols, ip routing & switch.    
-      - 10 years of experience as a public servant in Chinese government to maintain systems running nonstop and keep systems secure. 
-      - Bachelor’s degree in Literature, majoring in English. Fluent communication in English, more powerful on writing & reading.
+      - System Engineer and a Linux Enthusiast. More than 10 years on Linux enterprise environment plan, deployment, administration, troubleshooting and performance tuning.
+      - Enterprise Storage administration, deeply understanding SAN / NAS storage, familiar with Data Protection and performance optimization.
+      - Good understanding for programming methodology, improving daily working efficiency with Bash/Python scripts
+      - Be good at implementing IPv4 or IPv6 scalable networks, master OSI model, TCP/IP protocols, ip routing & switch.
+      - Infrastructure and Open Source Applications deployment, configuration management with Ansible
+      - Hands on experiences with AWS, Huawei Cloud and deeply understanding open source cloud solutions
+      - Powerful customer facing skills. Understanding customers needs, critical and complex issues troubleshooting.
+      - Strong communication and collaboration with colleagues. Good documentation habit.
+      - Has experiences on Open Source Applications, such as Nginx, Squid, MySQL, PostgreSQL, Docker, Kubernetes, Elasticsearch, Kafka, Redis, Gitlab, Github, Restful API, and Atlassian products such
+      -  Atlassian Jira, Atlassian Confluence.
+      - Love to make contributions to the community and adopt github to hold an information
+      - llecting page (https://matrixzj.github.io) for keycap fans.
+      - Fast learner, quickly pickup all knowledge needed. Great passion on computer science
+      - owledge
+      - Bachelor’s degree in Literature, majoring in English.
 
 education:
     - degree: BSc in English Literature
@@ -52,6 +58,18 @@ education:
       time: 1996 - 2000
 
 experiences:
+    - role: Senior Cloud System Engineer
+      time: Aug., 2020 till now 
+      company: G42 Cloud, Abu Dhabi
+      details: |
+        - Responsible for monitoring, supporting, and administering a public cloud production environment with initial onboarding, upgrades and recovery
+        - Cloud Services API learning, analysis. Build automated test cases via Postman for Cloud Services.
+        - Support Virtualization and Kubernetes based, mix environments
+        - Follow production support processes to document day to day support activities,
+        -ontribute to knowledge base and improve our overall accuracy and efficiency
+        - Support our 24/7/365 always-up, always available production services
+        - Troubleshooting customers’ issues, help customers adopt cloud native services
+
     - role: Lead System Engineer
       time: Dec., 2018 till now 
       company: Freewheel, Beijing
@@ -68,7 +86,7 @@ experiences:
 
     - role: Senior Technical Account Manager
       time: Apr., 2018 - Dec., 2018
-      company: Red Hat GCS, Beijing
+      company: Red Hat, Beijing
       details: |
         - Deeply invovling with Customers production environment, help on architecture review with customers. 
         - Help to build TAM team and interview with new candidates, provide guide for newbies.
@@ -100,7 +118,7 @@ experiences:
 
     - role: Senior Technical Account Manager
       time: Jul., 2014 - Nov., 2015
-      company: Red Hat CEE, Beijing
+      company: Red Hat, Beijing
       details: |
         - **awarded as APAC Associate of Quater (FY15 Q3)**
         - **awarded as Top GSS (FY16 Q1)**
@@ -111,7 +129,7 @@ experiences:
 
     - role: Technical Account Manager
       time: Aug., 2013 - Jun., 2014
-      company: Red Hat CEE, Beijing
+      company: Red Hat, Beijing
       details: |
         - Designated senior technical resource to customers, deeply understanding customers’ unique technical environment, collaborating with customers’ IT organization on strategic planning.
         - Build good relationship with customers through regular meeting and on-site visits. During these events, sharing knowledge, introducing best practice, and providing Red Hat roadmap to customers.
@@ -121,7 +139,7 @@ experiences:
  
     - role: Technical Support Engineer
       time: Aug., 2013 - Jun., 2014
-      company: Red Hat GSS, Beijing
+      company: Red Hat, Beijing
       details: |
         - To communicate with customers mainly in China mainland and Taiwan, provide professional technical support for them. Answer telephone hotline and web based inquiries about Red Hat Enterprise Linux.
         - Troubleshooting for customers’ problems, isolate and narrow down problems by deeply analysis of all log and system workload statistics.
@@ -158,29 +176,29 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 trainings:
-    - subject: MCSE training course in Speedo Training Center in Chengdu
-      time: Sep.,2000 – Feb.,2001
-
-    - subject: CCNA training course in HaoCheng Training Center in Kunming
-      time: Aug.,2010 – Sep.,2010  
-
-    - subject: CCNP training course in HaoCheng Training Center in Kunming
-      time: Sep.,2010 – May.,2011  
-
-    - subject: RHCE training course in HaoCheng Training Center in Kunming
-      time: Feb.,2011 – Apr.,2011
-
-    - subject: RHCVA training course in Uplooking Training Center in Shanghai
-      time: Jun., 2011
-
-    - subject: RHCA & RHCSS training course in Yutian Training Center in Wuhan 
-      time: Jun.,2011 – Oct.,2011
+    - subject: Managing NAS and Performance on Clustered Data ONTAP in New York, USA
+      time: Jul., 2017
 
     - subject: NETAPP ONTAP 9 Cluster Administration and ONTAP Data Protection Administration in New York, USA
       time: Mar., 2017 
 
-    - subject: Managing NAS and Performance on Clustered Data ONTAP in New York, USA
-      time: Jul., 2017
+    - subject: RHCA & RHCSS training course in Yutian Training Center in Wuhan 
+      time: Jun.,2011 – Oct.,2011
+
+    - subject: RHCVA training course in Uplooking Training Center in Shanghai
+      time: Jun., 2011
+
+    - subject: RHCE training course in HaoCheng Training Center in Kunming
+      time: Feb.,2011 – Apr.,2011
+
+    - subject: CCNP training course in HaoCheng Training Center in Kunming
+      time: Sep.,2010 – May.,2011  
+
+    - subject: CCNA training course in HaoCheng Training Center in Kunming
+      time: Aug.,2010 – Sep.,2010  
+
+    - subject: MCSE training course in Speedo Training Center in Chengdu
+      time: Sep.,2000 – Feb.,2001
 
 
 certifications:
@@ -220,25 +238,25 @@ skills:
 
     toolset:
       - name: Linux Administration
-        level: 98%
+        level: 100%
 
       - name: Troubleshooting
-        level: 98%
+        level: 100%
 
       - name: Linux Performance Tuning
-        level: 80%
+        level: 90%
 
       - name: Storage Administration
         level: 70%
 
       - name: Cloud Computing
-        level: 70%
+        level: 90%
 
       - name: Scripting on Bash
-        level: 80%
+        level: 100%
 
       - name: Scripting on Python
-        level: 30%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://matrixzj.github.io/resume" target="_blank" rel="nofollow">Matrix Zou</a>
