@@ -138,7 +138,7 @@ experiences:
         - Working with sales team to build customer plan
  
     - role: Technical Support Engineer
-      time: Aug., 2013 - Jun., 2014
+      time: Feb., 2012 - Jun., 2014
       company: Red Hat, Beijing
       details: |
         - To communicate with customers mainly in China mainland and Taiwan, provide professional technical support for them. Answer telephone hotline and web based inquiries about Red Hat Enterprise Linux.
@@ -202,35 +202,43 @@ trainings:
 
 
 certifications:
-    - subject: TEM8 (Test for English Major-Level 8)
-      time: Mar., 2000
+    - subject: CKAD (Certified Kubernetes Application Developer)
+      time: Dec., 2023
+      ID: LF-rblg5wbokd
 
-    - subject: MCSE (Microsoft Certified Systems Engineer)
-      time: Sep., 2001
+    - subject: CKA (RedHat Certified Instructor)
+      time: Nov., 2022
+      ID: LF-23ulvx0x73
 
-    - subject: MCDBA (Microsoft Certified DataBase Administrator)
-      time: Sep., 2001
-
-    - subject: CCNA (Cisco Certified Network Associate)
-      time: Spe., 2010
-
-    - subject: RHCE (RedHat Certified Engineer)
-      time: Api., 2011
-
-    - subject: CCNP (Cisco Certified Network Professional) 
-      time: May., 2011
-
-    - subject: RHCVA (RedHat Certified Virtualization Administrator)
-      time: Jun., 2011
-
-    - subject: RHCSS (RedHat Certified Security Specialist)
-      time: Sep., 2011
+    - subject: RHCI (RedHat Certified Instructor)
+      time: Jun., 2012
 
     - subject: RHCA (RedHat Certified Architect)
       time: Oct., 2011
 
-    - subject: RHCI (RedHat Certified Instructor)
-      time: Jun., 2012
+    - subject: RHCSS (RedHat Certified Security Specialist)
+      time: Sep., 2011
+
+    - subject: RHCVA (RedHat Certified Virtualization Administrator)
+      time: Jun., 2011
+
+    - subject: CCNP (Cisco Certified Network Professional) 
+      time: May., 2011
+
+    - subject: RHCE (RedHat Certified Engineer)
+      time: Api., 2011
+
+    - subject: CCNA (Cisco Certified Network Associate)
+      time: Spe., 2010
+
+    - subject: MCDBA (Microsoft Certified DataBase Administrator)
+      time: Sep., 2001
+
+    - subject: MCSE (Microsoft Certified Systems Engineer)
+      time: Sep., 2001
+
+    - subject: TEM8 (Test for English Major-Level 8)
+      time: Mar., 2000
 
 
 skills:
