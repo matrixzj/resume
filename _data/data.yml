@@ -36,21 +36,18 @@ sidebar:
 career-profile:
     title: Highlights
     summary: |
-      - System Engineer and a Linux Enthusiast. More than 10 years on Linux enterprise environment plan, deployment, administration, troubleshooting and performance tuning.
-      - Enterprise Storage administration, deeply understanding SAN / NAS storage, familiar with Data Protection and performance optimization.
+      - Linux Enthusiast. More than 15 years on Linux enterprise environment plan, deployment, administration, troubleshooting and performance tuning. 
+      - Familiar with Container and Container Management Platform, hands-on experience on Kubernetes and container based application development. 
+      - Enterprise Storage administration, deeply understanding SAN / NAS storage, familiar with Data Protection and performance optimization. 
+      - Hands on experiences with not only public cloud solutions, such as AWS and Huawei Cloud, but also private cloud solution (OpenStack) 
       - Good understanding for programming methodology, improving daily working efficiency with Bash/Python scripts
-      - Be good at implementing IPv4 or IPv6 scalable networks, master OSI model, TCP/IP protocols, ip routing & switch.
-      - Infrastructure and Open Source Applications deployment, configuration management with Ansible
-      - Hands on experiences with AWS, Huawei Cloud and deeply understanding open source cloud solutions
-      - Powerful customer facing skills. Understanding customers needs, critical and complex issues troubleshooting.
-      - Strong communication and collaboration with colleagues. Good documentation habit.
-      - Has experiences on Open Source Applications, such as Nginx, Squid, MySQL, PostgreSQL, Docker, Kubernetes, Elasticsearch, Kafka, Redis, Gitlab, Github, Restful API, and Atlassian products such
-      -  Atlassian Jira, Atlassian Confluence.
-      - Love to make contributions to the community and adopt github to hold an information
-      - llecting page (https://matrixzj.github.io) for keycap fans.
-      - Fast learner, quickly pickup all knowledge needed. Great passion on computer science
-      - owledge
-      - Bachelor’s degree in Literature, majoring in English.
+      - Familiar with Infrastructure-as-Code tools,  Ansible, Terraform
+      - Be good at implementing IPv4 or IPv6 scalable networks, master OSI model, TCP/IP protocols, ip routing & switch.  
+      - Powerful customer facing skills. Understanding customers needs, critical and complex issues troubleshooting. 
+      - Strong communication and collaboration with colleagues. Good documentation habit. 
+      - Has experiences on Open Source Applications, such as Nginx, Squid, MySQL, PostgreSQL, Elasticsearch, Kafka, Redis, Gitlab, Github,  Restful API, and Atlassian products such as Atlassian Jira, Atlassian Confluence.
+      - Love to make contributions to the community and adopt github to hold an information collecting page (https://matrixzj.github.io) for  keycap fans. 
+      - Fast learner, quickly pickup all knowledge needed. Great passion on computer science knowledge 
 
 education:
     - degree: BSc in English Literature
@@ -63,12 +60,13 @@ experiences:
       company: G42 Cloud, Abu Dhabi
       details: |
         - Responsible for monitoring, supporting, and administering a public cloud production environment with initial onboarding, upgrades and recovery
-        - Cloud Services API learning, analysis. Build automated test cases via Postman for Cloud Services.
-        - Support Virtualization and Kubernetes based, mix environments
-        - Follow production support processes to document day to day support activities,
-        -ontribute to knowledge base and improve our overall accuracy and efficiency
-        - Support our 24/7/365 always-up, always available production services
+        - Prepare SOP documents / scripts for daily operations
+        - Cloud Services API learning, analysis. Build automated test cases via Postman for  Cloud Services. 
+        - Support Virtualization and Kubernetes based hybrid environments  
+        - Follow production support processes to document day to day support activities, contribute to knowledge base
+        - Onboard new team members as a mentor 
         - Troubleshooting customers’ issues, help customers adopt cloud native services
+        - Support our 24/7/365 always-up, always available production services
 
     - role: Lead System Engineer
       time: Dec., 2018 - Jul. 2020
@@ -245,6 +243,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Cloud Computing
+        level: 90%
+
+      - name: Kubernetes
+        level: 80%
+
       - name: Linux Administration
         level: 100%
 
@@ -256,9 +260,6 @@ skills:
 
       - name: Storage Administration
         level: 70%
-
-      - name: Cloud Computing
-        level: 90%
 
       - name: Scripting on Bash
         level: 100%
