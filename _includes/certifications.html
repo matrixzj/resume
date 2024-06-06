@@ -20,7 +20,9 @@
       </div><!--//upper-row-->
 
       <div class="company">{{ certification.time }}</div>
-      <div class="company">ID: {{ certification.id }}</div>
+      {% if certification.id %}
+         <div class="company">ID: {{ certification.id }}</div>
+      {% endif %}
 
     </div><!--//meta-->
 
