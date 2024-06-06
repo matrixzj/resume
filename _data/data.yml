@@ -201,30 +201,28 @@ trainings:
 
 certifications:
     - subject: CKAD (Certified Kubernetes Application Developer)
-      time: Dec., 2023
-      ID: LF-rblg5wbokd
+      time: Dec., 2023 / ID: LF-rblg5wbokd
 
     - subject: CKA (Certified Kubernetes Administrator)
-      time: Nov., 2022
-      ID: LF-23ulvx0x73
+      time: Nov., 2022 / ID: LF-23ulvx0x73
 
     - subject: RHCI (RedHat Certified Instructor)
       time: Jun., 2012
 
     - subject: RHCA (RedHat Certified Architect)
-      time: Oct., 2011
+      time: Oct., 2011 / ID: 111-078-606
 
     - subject: RHCSS (RedHat Certified Security Specialist)
-      time: Sep., 2011
+      time: Sep., 2011 / ID: 111-078-606
 
     - subject: RHCVA (RedHat Certified Virtualization Administrator)
-      time: Jun., 2011
+      time: Jun., 2011 / ID: 111-078-606
 
     - subject: CCNP (Cisco Certified Network Professional) 
       time: May., 2011
 
     - subject: RHCE (RedHat Certified Engineer)
-      time: Api., 2011
+      time: Api., 2011 / ID: 111-078-606
 
     - subject: CCNA (Cisco Certified Network Associate)
       time: Spe., 2010
