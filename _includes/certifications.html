@@ -19,9 +19,11 @@
         <h3 class="job-title">{{ certification.subject }}</h3>
       </div><!--//upper-row-->
 
-      <div class="company">{{ certification.time }}</div>
       {% if certification.id %}
-         <div class="cert-id">ID: {{ certification.id }}</div>
+      <div class="cert-time">{{ certification.time }}</div>
+      <div class="cert-id">ID: {{ certification.id }}</div>
+      {% else %}
+      <div class="company">{{ certification.time }}</div>
       {% endif %}
 
     </div><!--//meta-->
