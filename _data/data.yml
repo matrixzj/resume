@@ -200,7 +200,7 @@ trainings:
 
 
 certifications:
-    - subject: CKAD (Certified Kubernetes Security Specialist)
+    - subject: CKS (Certified Kubernetes Security Specialist)
       time: Jun., 2023 
       id: LF-7ce9uccc19
 
