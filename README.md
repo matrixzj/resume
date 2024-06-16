@@ -1,5 +1,5 @@
-# resume
-[Matrix Resume](https://matrixzj.github.io/resume/)
+# Matrix Resume
+[My Resume](https://matrixzj.github.io/resume/)
 
 # Special Thanks
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
